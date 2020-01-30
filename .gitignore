@@ -1,0 +1,11 @@
+.venv
+.vscode
+renamed
+*.pdf
+*.jpg
+*.log
+test_folder
+.pytest_cache
+__pycache__
+dist
+build
