@@ -1,6 +1,6 @@
 # AEM Assets File Renamer
 
-Command line tool to rename files in prepartion for uploading into Adobe Experience Manager (AEM) Assets (DAM).
+Command line tool to rename files in prepartation for uploading into Adobe Experience Manager (AEM) Assets (DAM).
 Written in Python.
 
 ```
