@@ -3,7 +3,7 @@
 Command line tool to rename files in prepartion for uploading into Adobe Experience Manager (AEM) Assets (DAM).
 Written in Python.
 
-```sh
+```
 usage: aem_assets_file_renamer.py [-h] [-p PREFIX] [-o OUTPUT_FOLDER]
                                   [-l LOG_FILE] [-v]
                                   path_name
